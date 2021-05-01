@@ -28,7 +28,7 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 * [Types of invertebrate paleontology paper](https://twitter.com/InvertebratePal/status/1388115817292836869)
 * [Types of language research paper](https://twitter.com/ProfSimonFisher/status/1388096934343233537)
 * [Types of linguistics paper](https://twitter.com/midnucas/status/1388283538944913409)
-* [Types of material science paper](https://twitter.com/MetalPlasticity/status/1388193758651555844)
+* [Types of materials science paper](https://twitter.com/MetalPlasticity/status/1388193758651555844)
 * [Types of machine learning paper](https://twitter.com/natashajaques/status/1387859601555554304)
 * [Types of microbiology paper](https://twitter.com/Prokaryota/status/1387780883520921602)
 * [Types of ML/NLP paper](https://twitter.com/seb_ruder/status/1387886948438708224)
