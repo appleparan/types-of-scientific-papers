@@ -15,6 +15,7 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 * [Types of climate change paper](https://twitter.com/LetsFishSmarter/status/1388157666690617344)
 * [Types of climate change paper (2)](https://twitter.com/RogerPielkeJr/status/1388290267925544960)
 * [Types of community ecology paper](https://twitter.com/lars_brudvig/status/1387944806228316161)
+* [Types of computational chemistry paper](https://twitter.com/mmsltn/status/1388499201839964160)
 * [Types of computational social science paper](https://twitter.com/evoluchico/status/1388137531552718860)
 * [Types of computer graphics paper](https://twitter.com/BrunoLevy01/status/1388421597413974016)
 * [Types of deep learning optimization paper](https://twitter.com/zacharynado/status/1388298365390229505)
