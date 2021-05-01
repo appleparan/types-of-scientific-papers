@@ -12,4 +12,5 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 * [Types of machine learning papers](https://twitter.com/natashajaques/status/1387859601555554304)
 * [Types of scientific papers (paywall)](https://twitter.com/AndrewBarnas/status/1388161745684996098)
 * [Types of reinforcement learning papers](https://twitter.com/araffin2/status/1388174444712112131)
+* [Types of rejected machine learning papers](https://twitter.com/omarsar0/status/1388457290601312256)
 * [Types of rural health papers](https://twitter.com/WhitneyZahnd/status/1388233798224015360)
