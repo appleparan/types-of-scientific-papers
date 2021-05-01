@@ -6,6 +6,7 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 
 # List
 
+* [Types of AI alignment paper](https://twitter.com/nabla_theta/status/1388344454067625985)
 * [Types of animal behaviour paper](https://twitter.com/joacim_naslund/status/1388116325533470722)
 * [Types of bioinformatics paper](https://twitter.com/bonscotthoughts/status/1387980717246713864)
 * [Types of cannabinoid science paper](https://twitter.com/rhyscohen/status/1388401284328296450)
