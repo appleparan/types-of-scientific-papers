@@ -21,3 +21,4 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 * [Types of reinforcement learning paper](https://twitter.com/araffin2/status/1388174444712112131)
 * [Types of rejected machine learning paper](https://twitter.com/omarsar0/status/1388457290601312256)
 * [Types of rural health paper](https://twitter.com/WhitneyZahnd/status/1388233798224015360)
+* [Types of AI alignment paper](https://twitter.com/nabla_theta/status/1388344454067625985)
