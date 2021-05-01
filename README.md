@@ -7,6 +7,7 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 # List
 
 * [Types of evolutionary psychology papers](https://twitter.com/stacyfarina/status/1388142482735644676)
+* [Types of glaciology papers](https://twitter.com/ice_rivers_sam/status/1388147600948269057)
 * [Types of health papers](https://twitter.com/michelleminton/status/1387767477506035718)
 * [Types of linguistics papers](https://twitter.com/midnucas/status/1388283538944913409)
 * [Types of machine learning papers](https://twitter.com/natashajaques/status/1387859601555554304)
