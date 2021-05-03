@@ -20,7 +20,7 @@ Any comments and suggestions are welcome! [Issue](https://github.com/appleparan/
 * [Types of computational chemistry paper](https://twitter.com/mmsltn/status/1388499201839964160)
 * [Types of computational social science paper](https://twitter.com/evoluchico/status/1388137531552718860)
 * [Types of computer graphics paper](https://twitter.com/BrunoLevy01/status/1388421597413974016)
-* [Types of CTF writeups](https://i.imgur.com/WQPkIwz.jpg)
+* [Types of CTF writeups](https://twitter.com/zwad3/status/1388242829344915459?s=21)
 * [Types of cybersecurity papers](https://i.imgur.com/uZbEyvm.jpg)
 * [Types of deep learning optimization paper](https://twitter.com/zacharynado/status/1388298365390229505)
 * [Types of drug policy paper](https://twitter.com/ADrugResearcher/status/1388210774934388739)
